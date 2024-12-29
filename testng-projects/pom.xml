@@ -13,6 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>demowebshop-e2e-tests-testng</module>
+        <module>nopcommerce-admin-testng</module>
     </modules>
 
     <properties>

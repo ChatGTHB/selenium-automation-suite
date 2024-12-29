@@ -1,0 +1,14 @@
+<suite name="NopCommerceAdminTests" parallel="tests" thread-count="2">
+    <test name="ChromeTests">
+        <parameter name="browserType" value="chrome"/>
+        <classes>
+            <class name="AdminTests"/>
+        </classes>
+    </test>
+    <test name="FirefoxTests">
+        <parameter name="browserType" value="firefox"/>
+        <classes>
+            <class name="AdminTests"/>
+        </classes>
+    </test>
+</suite>

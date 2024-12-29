@@ -13,7 +13,6 @@
         <module>junit-projects</module>
         <module>testng-projects</module>
         <module>cucumber-projects</module>
-        <module>junit-projects/demowebshop-e2e-tests</module>
     </modules>
 
     <properties>
