@@ -3,6 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/common/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cucumber-projects/parabank-cucumber-tests/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cucumber-projects/parabank-cucumber-tests/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cucumber-projects/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cucumber-projects/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/junit-projects/demowebshop-e2e-tests/src/main/java" charset="UTF-8" />
@@ -19,6 +21,8 @@
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/testng-projects/demowebshop-e2e-tests-testng/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/testng-projects/demowebshop-e2e-tests-testng/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testng-projects/nopcommerce-admin-testng/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testng-projects/nopcommerce-admin-testng/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/testng-projects/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/testng-projects/src/main/resources" charset="UTF-8" />
   </component>
