@@ -72,7 +72,7 @@ selenium-automation-suite/
 ## Installation
 ### Clone the Repository
 ```bash
-git clone https://github.com/username/selenium-automation-suite.git
+git clone https://github.com/cihat-kose/selenium-automation-suite.git
 cd selenium-automation-suite
 ```
 
